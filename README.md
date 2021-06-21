@@ -2,7 +2,7 @@ Bootstrap Autocomplete
 ======================
 
 ![docs](https://readthedocs.org/projects/bootstrap-autocomplete/badge/?version=latest "Latest Docs")
-[![Build Status](https://api.cirrus-ci.com/github/xcash/bootstrap-autocomplete.svg)](https://cirrus-ci.com/github/xcash/bootstrap-autocomplete)
+[![Build Status](https://api.cirrus-ci.com/github/richardsalvaia/bootstrap-autocomplete.svg)](https://cirrus-ci.com/github/richardsalvaia/bootstrap-autocomplete)
 
 Autocomplete plugin for Bootstrap 4.x and 3.x.
 
@@ -17,9 +17,9 @@ Version 2.0.0 and up supports Boostrap v4.x and old v3.x out of the box.
 Try the DEMO!
 =============
 
-[Bootstrap 4 latest version](https://raw.githack.com/xcash/bootstrap-autocomplete/master/dist/latest/index.html)
+[Bootstrap 4 latest version](https://raw.githack.com/richardsalvaia/bootstrap-autocomplete/master/dist/latest/index.html)
 
-[Bootstrap 3 latest version](https://raw.githack.com/xcash/bootstrap-autocomplete/master/dist/latest/indexV3.html)
+[Bootstrap 3 latest version](https://raw.githack.com/richardsalvaia/bootstrap-autocomplete/master/dist/latest/indexV3.html)
 
 
 Creating DEV Environment
